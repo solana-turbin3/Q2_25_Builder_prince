@@ -1,3 +1,6 @@
 [submodule "escrow-anchor"]
 	path = escrow-anchor
 	url = https://github.com/prince981620/escrow-anchor.git
+[submodule "vault-anchor"]
+	path = vault-anchor
+	url = https://github.com/solana-turbin3/Q2_25_Builder_prince.git
