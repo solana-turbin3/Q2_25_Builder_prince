@@ -1,0 +1,3 @@
+[submodule "escrow-anchor"]
+	path = escrow-anchor
+	url = https://github.com/prince981620/escrow-anchor.git
