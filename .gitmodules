@@ -4,3 +4,6 @@
 [submodule "vault-anchor"]
 	path = vault-anchor
 	url = https://github.com/prince981620/vault-anchor.git
+[submodule "amm-anchor"]
+	path = amm-anchor
+	url = https://github.com/prince981620/amm-anchor.git
