@@ -13,3 +13,6 @@
 [submodule "bonding_curve"]
 	path = bonding_curve
 	url = https://github.com/prince981620/bonding_curve.git
+[submodule "stacking_program"]
+	path = stacking_program
+	url = https://github.com/prince981620/stacking_program.git
