@@ -16,3 +16,6 @@
 [submodule "stacking_program"]
 	path = stacking_program
 	url = https://github.com/prince981620/stacking_program.git
+[submodule "FEQ1BaseRepo"]
+	path = FEQ1BaseRepo
+	url = https://github.com/prince981620/solana-base-repo.git
